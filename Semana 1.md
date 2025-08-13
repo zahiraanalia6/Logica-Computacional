@@ -16,4 +16,8 @@ A continuación se mostrarán los símbolos asociados a cada conectiva:
 
 4 Negación: ¬ 
 
+Decimos que una expresión es una **tautología**, cuando todas sus valuaciones posibles dan VERDADERO.
 
+Decimos que una expresión es una **contradicción**, cuando todas sus valuaciones posibles dan FALSO.
+
+Decimos que una expresión es una **contingencia**, si algunas de las valuaciones posibles dan VERDADERO y otras dan FALSO.
