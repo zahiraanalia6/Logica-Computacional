@@ -20,6 +20,13 @@ Una propiedad es un adjetivo, una cualidad, característica o atributo que puede
 
 Cuantificador universal: ∀
 
+El Cuantificador Universal se utiliza para representar conjuntos que afirman que todos los individuos del dominio cumplen el predicado.
+
 Cuantificador existencial: ∃
 
+El cuantificador existencial se utiliza para representar conjuntos que afirman que algún individuo del dominio (o más de uno) cumplen el predicado.
+
 Cuantificador existencial negado: ∄
+
+El cuantificador existencial negado se utiliza para representar conjuntos que afirman que ningún individuo cumple el predicado. Es decir, que si aplicamos el predicado a cada individuo del dominio, todos los predicados evaluarán FALSO. 
+
